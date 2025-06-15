@@ -1,5 +1,6 @@
 # ignore node_modules
 node_modules/
+.env
 #ignore zzz.js
 zzz.js
 #ignore zrough.js
